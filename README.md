@@ -7,7 +7,8 @@ Java console card game.
 2. Open a terminal in the project folder
 3. Run:
 
-cd src |
-javac *.java |
+```bash
+cd src
+javac *.java
 java HighSuitGame
 
