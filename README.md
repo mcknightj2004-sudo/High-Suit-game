@@ -8,7 +8,8 @@ Players: 1–2 players. If a player name is "Computer", that player is AI-contro
 Deck / Deal: Standard 52-card deck. Each round, each player is dealt 5 cards.
 Card values:
 - 2–10 = face value
-- J = 11, Q = 12, K = 13, A = 14
+- J/Q/K = 10
+- A = 11
 Scoring (per round):
 - Add up the values of cards by suit (Hearts, Diamonds, Clubs, Spades).
 - Your round score is the highest total from any one suit in your hand.
